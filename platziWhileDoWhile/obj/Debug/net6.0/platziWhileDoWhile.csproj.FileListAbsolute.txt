@@ -1,0 +1,15 @@
+C:\Users\lbernate\source\repos\platziWhileDoWhile\platziWhileDoWhile\bin\Debug\net6.0\platziWhileDoWhile.exe
+C:\Users\lbernate\source\repos\platziWhileDoWhile\platziWhileDoWhile\bin\Debug\net6.0\platziWhileDoWhile.deps.json
+C:\Users\lbernate\source\repos\platziWhileDoWhile\platziWhileDoWhile\bin\Debug\net6.0\platziWhileDoWhile.runtimeconfig.json
+C:\Users\lbernate\source\repos\platziWhileDoWhile\platziWhileDoWhile\bin\Debug\net6.0\platziWhileDoWhile.dll
+C:\Users\lbernate\source\repos\platziWhileDoWhile\platziWhileDoWhile\bin\Debug\net6.0\platziWhileDoWhile.pdb
+C:\Users\lbernate\source\repos\platziWhileDoWhile\platziWhileDoWhile\obj\Debug\net6.0\platziWhileDoWhile.csproj.AssemblyReference.cache
+C:\Users\lbernate\source\repos\platziWhileDoWhile\platziWhileDoWhile\obj\Debug\net6.0\platziWhileDoWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lbernate\source\repos\platziWhileDoWhile\platziWhileDoWhile\obj\Debug\net6.0\platziWhileDoWhile.AssemblyInfoInputs.cache
+C:\Users\lbernate\source\repos\platziWhileDoWhile\platziWhileDoWhile\obj\Debug\net6.0\platziWhileDoWhile.AssemblyInfo.cs
+C:\Users\lbernate\source\repos\platziWhileDoWhile\platziWhileDoWhile\obj\Debug\net6.0\platziWhileDoWhile.csproj.CoreCompileInputs.cache
+C:\Users\lbernate\source\repos\platziWhileDoWhile\platziWhileDoWhile\obj\Debug\net6.0\platziWhileDoWhile.dll
+C:\Users\lbernate\source\repos\platziWhileDoWhile\platziWhileDoWhile\obj\Debug\net6.0\refint\platziWhileDoWhile.dll
+C:\Users\lbernate\source\repos\platziWhileDoWhile\platziWhileDoWhile\obj\Debug\net6.0\platziWhileDoWhile.pdb
+C:\Users\lbernate\source\repos\platziWhileDoWhile\platziWhileDoWhile\obj\Debug\net6.0\platziWhileDoWhile.genruntimeconfig.cache
+C:\Users\lbernate\source\repos\platziWhileDoWhile\platziWhileDoWhile\obj\Debug\net6.0\ref\platziWhileDoWhile.dll
